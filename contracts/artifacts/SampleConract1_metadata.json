@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleContract1.sol": "SampleConract1"
+			"contracts/014_SampleContractPayable.sol": "SampleConract1"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleContract1.sol": {
+		"contracts/014_SampleContractPayable.sol": {
 			"keccak256": "0x91049c103d46b167042fa25d622b6e87eec844c487011127e10b32ec1c994dbd",
 			"license": "MIT",
 			"urls": [

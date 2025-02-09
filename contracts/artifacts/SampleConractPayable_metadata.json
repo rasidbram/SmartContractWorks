@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -28,7 +28,7 @@
 				],
 				"name": "updateString",
 				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "payable",
 				"type": "function"
 			}
 		],
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/013_SampleContract.sol": "SampleContract"
+			"contracts/014_SampleContractPayable.sol": "SampleConractPayable"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/013_SampleContract.sol": {
-			"keccak256": "0x10c793870c7fed1d79aee53402ae65df77ce618e9571f9edc808948a1927428a",
+		"contracts/014_SampleContractPayable.sol": {
+			"keccak256": "0x1dc6d5568c92bd85cd61c8b68db57a98554a2a1922a17b5f43312fe8b27b563e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6b826b9c93bc3f82be4758287f835c6f452bc8943b8d42a44b56d03d2ec0d0a9",
-				"dweb:/ipfs/QmNLoaa5ySMY6CJAGmgPVdCgog8jW1Zh1pVTyC4RVRYeaX"
+				"bzz-raw://47d56db706de534bda231423c18cec2a7601bdb76180960676767c6a4c3732ea",
+				"dweb:/ipfs/QmdA9f45xzvegzD6DBVqVHPW2JMxccP5HEv1SALhrMsKUX"
 			]
 		}
 	},

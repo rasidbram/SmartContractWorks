@@ -2,6 +2,8 @@
 
 pragma solidity 0.8.28;
 
+// this contract for metaMask 
+
 contract SampleContract{
     string public myString;
     

@@ -72,7 +72,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SendMoneyeExample.sol": "SendWithdrawMoney"
+			"contracts/016_SendMoneyeExample.sol": "SendWithdrawMoney"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -86,7 +86,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SendMoneyeExample.sol": {
+		"contracts/016_SendMoneyeExample.sol": {
 			"keccak256": "0xc988acadb9c96607604e692d438ae1a20effc6bcd72e7357d5dfe25cd157af94",
 			"license": "MIT",
 			"urls": [

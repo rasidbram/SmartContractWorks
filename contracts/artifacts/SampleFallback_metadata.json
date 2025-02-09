@@ -79,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleFallback.sol": "SampleFallback"
+			"contracts/015_SampleFallback.sol": "SampleFallback"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -93,12 +93,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleFallback.sol": {
-			"keccak256": "0x8ca16e4ea2c3723dd5d96a50b938f9bcd4ae07e9f4d72e2cb420132d6c4bd26c",
+		"contracts/015_SampleFallback.sol": {
+			"keccak256": "0xc8692cbcd3eaccd6db337231d57332bc7b57e70e9d1e2641e667aef2ed5fb5b9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3e1db5d85f4fec60e5bd91b131647643d274981f27800946c4238588b26611d3",
-				"dweb:/ipfs/QmdV1Qv3JKjSctwXRprtPZPm3xYBPNu66Yv2TroGX26ELX"
+				"bzz-raw://ec3d0a78b449d77ebaa5cea33d843b80ac1445c15215905446351c75d066c6a1",
+				"dweb:/ipfs/QmQbfup8QawFwFbnoZ5zHmvRmuZhZnaZGG3R2J28fxbKpX"
 			]
 		}
 	},
