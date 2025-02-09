@@ -39,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMsgSender.sol": "ExampleMsgSender"
+			"contracts/009_ExampleMsgSender.sol": "ExampleMsgSender"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -53,12 +53,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMsgSender.sol": {
-			"keccak256": "0xd6e3815105a68702381de23d1ff0576dcaad316af52db485fa5526a22bf21bc6",
+		"contracts/009_ExampleMsgSender.sol": {
+			"keccak256": "0xcf1656a44490499bff3b7691e7a30784d8931021908962cd8a7e91754bb28229",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a404efd6cae56b8bf3a1947ea927f96db88c7f5563e9a1b8e5358947aa46144f",
-				"dweb:/ipfs/QmQwL3TpxoVvxnZqe2BTaKUz9Sjm3yvvfYr9mAYZzmKQrD"
+				"bzz-raw://3d01327009321fe07442331971e1165d7e85ed25c8d1febdc7402e6d29bb70a0",
+				"dweb:/ipfs/QmTANjNK6KP4BJAmwq7cqPxzu6PHh7C3zGwydveb2cpTtN"
 			]
 		}
 	},

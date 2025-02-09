@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TheBlockchainMessenger.sol": "TheBlockchainMessenger"
+			"contracts/012_TheBlockchainMessenger.sol": "TheBlockchainMessenger"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -90,12 +90,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/TheBlockchainMessenger.sol": {
-			"keccak256": "0x87ccabd187c22593733656dc7e2cdb668c86bcefa9f3a0b73b8365aac15a89ba",
+		"contracts/012_TheBlockchainMessenger.sol": {
+			"keccak256": "0xd1c119e4becc9ce3b566ae47f0f8933b8b2d337b38c83068456b663b39fdf6c8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8e598de2b9c8b8f898df9abe7acd44c538c2a68043bf82fd518a1db79dc7f365",
-				"dweb:/ipfs/QmQRhRtvQYtjRgXJf2aJ2daYzzkAffz5FPxrgZXYm56CSD"
+				"bzz-raw://168a89904174fef45ef63957b62b8877fc3e72fbad520c5f78dc38605225debd",
+				"dweb:/ipfs/QmQ21AFjLDjFcz2DcHnCW1SURcgzKki4hoXLidoG1qgi5T"
 			]
 		}
 	},

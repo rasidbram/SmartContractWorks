@@ -77,7 +77,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleString.sol": "ExampleString"
+			"contracts/007_ExampleString.sol": "ExampleString"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -91,12 +91,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleString.sol": {
-			"keccak256": "0xdab025bdc5a41c736078e494d323c122447759cb6c999d02da6771700790aa90",
+		"contracts/007_ExampleString.sol": {
+			"keccak256": "0x1489649c24f1147051f4fbce56d64d2e983a7df403585c7345ac6c5ce914c1fc",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6a7228b97e94065b88a46f354b578d46634c935e1581abdaedc1032b436f4be1",
-				"dweb:/ipfs/QmXTV9eE5dkbqAttEheyu9gMQgUCbrDNXtoVxmuuekxsd3"
+				"bzz-raw://bb2fde71175c8b800bb31ac1620e9b351acacc505a85561fd4115011ff3ed217",
+				"dweb:/ipfs/QmPQoMM93AvhkPcYD5EVYxqjfxwnQzrh8tcda23fDZv9QT"
 			]
 		}
 	},

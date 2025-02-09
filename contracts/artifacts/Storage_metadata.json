@@ -61,7 +61,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/1_Storage.sol": "Storage"
+			"contracts/001_Storage.sol": "Storage"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -75,7 +75,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/1_Storage.sol": {
+		"contracts/001_Storage.sol": {
 			"keccak256": "0xa3de51030e5784d1fc25677298a0bd61bf7eac541ca2fc94232f1b7dc5a89e21",
 			"license": "GPL-3.0",
 			"urls": [

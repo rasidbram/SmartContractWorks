@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleBoolean.sol": "ExampleBoolean"
+			"contracts/004_ExampleBoolean.sol": "ExampleBoolean"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleBoolean.sol": {
+		"contracts/004_ExampleBoolean.sol": {
 			"keccak256": "0xbd2209a7d68bdd2014963296b94cadc41f2050ffd847eade41a7e601be311620",
 			"license": "MIT",
 			"urls": [

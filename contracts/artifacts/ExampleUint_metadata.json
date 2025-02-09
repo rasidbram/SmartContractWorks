@@ -92,7 +92,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleWrapAround.sol": "ExampleUint"
+			"contracts/005_ExampleUint.sol": "ExampleUint"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -106,7 +106,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleWrapAround.sol": {
+		"contracts/005_ExampleUint.sol": {
 			"keccak256": "0x72ca80f2e3ccf0d2a75c5cce4933836107628cb7193b4554e09f05bce700b607",
 			"license": "MIT",
 			"urls": [

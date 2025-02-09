@@ -12,9 +12,7 @@ contract ExampleWrapAround {
     }
 
     function decrementUint() public {
-      
-            myUint--;
-        
+        myUint--;
     }
 
     function incrementUint8() public {
