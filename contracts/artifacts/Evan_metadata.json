@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/028_EventExample.sol": "MyContract"
+			"contracts/028_EventExample.sol": "Evan"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/028_EventExample.sol": {
-			"keccak256": "0x65e8bac5fb7982f1b7eea3a4274dc470050470d3ab4d6a37adaea10f9cf2b472",
+			"keccak256": "0xabf485f5df300b283d0b90600678430ff6196a79adba5a73e8348353ba818ac0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b90156ee9f5ce600747be1ec47909630c848f208462928dd775cdf14a3c9d11",
-				"dweb:/ipfs/QmRbX4qG413BCeG1uRtFs2Rpvctdpi8AX9fZ3Ly6jZEJMA"
+				"bzz-raw://f23942d7a5b0bdfaf359f10d1954b455d6036eb6af9d5d2834a391fcab174c38",
+				"dweb:/ipfs/QmRWTRHViYFTyKL81GR6cLYSUzsgShYWNsT8ZRYJBxr9LK"
 			]
 		}
 	},
