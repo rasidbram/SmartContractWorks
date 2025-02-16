@@ -7,12 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "myUint",
+				"name": "ourString",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
@@ -21,12 +21,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "_myUint",
-						"type": "uint256"
+						"internalType": "string",
+						"name": "_updateString",
+						"type": "string"
 					}
 				],
-				"name": "setMyUint",
+				"name": "updateOurString",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/027_SampleDebugging_updateUint.sol": "MyContract"
+			"contracts/024_MyContract.sol": "MyContract"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/027_SampleDebugging_updateUint.sol": {
-			"keccak256": "0x2d55c7de30f3211fad3d2cd9bbfa020c8a71b044b6902fd20fef6a1bdf94a2e8",
+		"contracts/024_MyContract.sol": {
+			"keccak256": "0xe0f3784d4dde8e96b957bdea978e1857423d040c03b15ab48aacdb5290b27e3b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d99f2fb32c18db9494cc5aebf34e7fa74103608ec75f3c4ec5240f90e9873bd5",
-				"dweb:/ipfs/QmSbtsPWJD34rhMNVX9fk3dCdNAYdvp2xzyVdoZLk7WJp3"
+				"bzz-raw://0b74c427bfcaab96e92e26b232b79b8011d9ca65f900ac9ab36753bca5df44e7",
+				"dweb:/ipfs/QmYJsvNfw34r1NCuVnT6re7EdiCZTqVqyVj9LzqBagu4q6"
 			]
 		}
 	},

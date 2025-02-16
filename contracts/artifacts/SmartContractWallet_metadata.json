@@ -189,7 +189,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SmartContractWallet.sol": "SmartContractWallet"
+			"contracts/026_SmartContractWallet.sol": "SmartContractWallet"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -203,7 +203,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SmartContractWallet.sol": {
+		"contracts/026_SmartContractWallet.sol": {
 			"keccak256": "0xc88e53d29a8d5c6aaab3787953a9c23d8f20ece828b18a4dc91a204006da5f10",
 			"license": "MIT",
 			"urls": [

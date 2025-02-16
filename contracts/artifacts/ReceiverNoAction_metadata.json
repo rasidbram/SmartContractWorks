@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleSendTransfer.sol": "ReceiverNoAction"
+			"contracts/023_ExampleSendTransfer.sol": "ReceiverNoAction"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -50,7 +50,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleSendTransfer.sol": {
+		"contracts/023_ExampleSendTransfer.sol": {
 			"keccak256": "0x0c64e7465f6c4ab0f283cf4ce17585606fe78257bf399606e004ba6d514ec885",
 			"license": "MIT",
 			"urls": [
