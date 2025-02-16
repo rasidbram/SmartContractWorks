@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMapping2.sol": "ExampleMappingWithdrawls"
+			"contracts/018_ExampleMapping2.sol": "ExampleMappingWithdrawls"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMapping2.sol": {
+		"contracts/018_ExampleMapping2.sol": {
 			"keccak256": "0x087a3668d917718e3c63a5648611a9c38401d063ae80905739432517c2db5882",
 			"license": "MIT",
 			"urls": [

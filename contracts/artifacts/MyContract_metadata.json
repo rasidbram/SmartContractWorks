@@ -4,7 +4,34 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_myUint",
+						"type": "uint256"
+					}
+				],
+				"name": "setMyUint",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/028_EventExample.sol": "MyContract"
+			"contracts/027_SampleDebugging_updateUint.sol": "MyContract"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/028_EventExample.sol": {
-			"keccak256": "0x65e8bac5fb7982f1b7eea3a4274dc470050470d3ab4d6a37adaea10f9cf2b472",
+		"contracts/027_SampleDebugging_updateUint.sol": {
+			"keccak256": "0x2d55c7de30f3211fad3d2cd9bbfa020c8a71b044b6902fd20fef6a1bdf94a2e8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9b90156ee9f5ce600747be1ec47909630c848f208462928dd775cdf14a3c9d11",
-				"dweb:/ipfs/QmRbX4qG413BCeG1uRtFs2Rpvctdpi8AX9fZ3Ly6jZEJMA"
+				"bzz-raw://d99f2fb32c18db9494cc5aebf34e7fa74103608ec75f3c4ec5240f90e9873bd5",
+				"dweb:/ipfs/QmSbtsPWJD34rhMNVX9fk3dCdNAYdvp2xzyVdoZLk7WJp3"
 			]
 		}
 	},

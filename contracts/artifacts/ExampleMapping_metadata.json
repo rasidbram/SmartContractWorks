@@ -124,7 +124,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMapping.sol": "ExampleMapping"
+			"contracts/017_ExampleMapping.sol": "ExampleMapping"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -138,7 +138,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMapping.sol": {
+		"contracts/017_ExampleMapping.sol": {
 			"keccak256": "0x2b30d2883b046fa16c6752a074fc229354ec5f3328f07dfe09d5e54bae04b6b9",
 			"license": "MIT",
 			"urls": [
