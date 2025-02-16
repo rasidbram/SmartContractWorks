@@ -44,7 +44,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleStruct.sol": "Wallet2"
+			"contracts/019_ExampleStruct.sol": "Wallet2"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -58,7 +58,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleStruct.sol": {
+		"contracts/019_ExampleStruct.sol": {
 			"keccak256": "0xc3190a4820fd2588122063086bd9333c5e0507df6715e688c76108ef2c73be51",
 			"license": "MIT",
 			"urls": [
