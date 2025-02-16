@@ -109,7 +109,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMappingStruct.sol": "MappingStructExample"
+			"contracts/020_ExampleMappingStruct.sol": "MappingStructExample"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -123,7 +123,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMappingStruct.sol": {
+		"contracts/020_ExampleMappingStruct.sol": {
 			"keccak256": "0x84db2e4ad9d788e5f6421daa2a1ca7b74599638a27ea9193794c2361630c2978",
 			"license": "MIT",
 			"urls": [
