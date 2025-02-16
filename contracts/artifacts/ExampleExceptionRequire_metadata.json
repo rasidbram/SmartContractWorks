@@ -63,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleExceptionRequire.sol": "ExampleExceptionRequire"
+			"contracts/021_ExampleExceptionRequire.sol": "ExampleExceptionRequire"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -77,7 +77,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleExceptionRequire.sol": {
+		"contracts/021_ExampleExceptionRequire.sol": {
 			"keccak256": "0x5996453779fd237c96fb4caf4ae0e45195060c10260679188ea8a1fc252dc4e3",
 			"license": "MIT",
 			"urls": [
