@@ -37,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleTryCatch.sol": "WillThrow"
+			"contracts/022_ExampleTryCatch.sol": "WillThrow"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,7 +51,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleTryCatch.sol": {
+		"contracts/022_ExampleTryCatch.sol": {
 			"keccak256": "0x48faca9834b42f2b0fd7f4c79a9dfdfc78b2c37fba20fadbd99550efad60590b",
 			"license": "MIT",
 			"urls": [
