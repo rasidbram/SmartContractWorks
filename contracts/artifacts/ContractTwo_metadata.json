@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "ContractTwo"
+			"contracts/024_ExampleContractCall.sol": "ContractTwo"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -50,7 +50,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleContractCall.sol": {
+		"contracts/024_ExampleContractCall.sol": {
 			"keccak256": "0xf15d614d1811b03eb6291f244e63f4dac5165cc5d3c6532d27d6dd6c8f34a0fc",
 			"license": "MIT",
 			"urls": [
