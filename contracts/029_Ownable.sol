@@ -7,6 +7,7 @@ contract Owner {
 
     constructor() {
         owner = msg.sender;
+        // Owner created
     }
 
     modifier onlyOwner() {
